@@ -1,4 +1,4 @@
-<h1>Hi, I'm Sadik! <br/>
+# Hi, I'm Sadik! 
 
 ## Data Scientist
 
