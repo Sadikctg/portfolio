@@ -1,1 +1,8 @@
-<h1>Hi, I'm Sadik! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Sadik! <br/>
+
+## Data Scientist
+
+#### Technical Skills: Python, SQL, MS Power BI, MS Office, Scrum
+
+## Education
+- BSc in EEE, International Islamic University Chittagong.
