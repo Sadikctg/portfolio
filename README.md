@@ -18,5 +18,5 @@
 	- In exploring transaction patterns, we investigate consecutive fraud occurrences to reveal potential follow-up scams, analyze transaction amounts for discrepancies between legitimate and fraudulent transactions, identify peak periods of fraud risk throughout the day and week, examine how fraud rates correlate with high transaction volumes, and scrutinize moments of unusually high fraud rates for underlying factors.
 
 - **Zomato Restaurant**
-	- Performing exploratory data analysis (EDA) facilitates the identification of trends and patterns in customer preferences across various locations and factors, aiding in strategic decision-making for menu offerings, pricing strategies, and geographical expansion plans.
+	- Performing EDA facilitates the identification of trends and patterns in customer preferences across various locations and factors, aiding in strategic decision-making for menu offerings, pricing strategies, and geographical expansion plans.
 	- Predicting customer satisfaction levels based on various restaurant features and attributes, leveraging machine learning techniques to optimize decision-making for menu offerings, pricing strategies, and geographic expansion plans.
