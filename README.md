@@ -8,7 +8,7 @@
 - BSc in EEE, International Islamic University Chittagong.
 
 ## Project
- - Python
+ - ### Python
 	- [**NETFLIX Movies and TV Shows**](https://github.com/Sadikctg/Project_3_Netflix_Movies_and_TV_Shows_EDA-)
 
 		- Analyzed the data and generated insights to know which type of TV shows/movies producing and growing their business in different countries with various culture.
