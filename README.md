@@ -9,6 +9,10 @@
 
 ## Project
 - [**NETFLIX Movies and TV Shows**](https://github.com/Sadikctg/Project_3_Netflix_Movies_and_TV_Shows_EDA-/blob/main/netflix_page_cover.jpg)
+
+
+<img src="[https://i.imgur.com/62TgaWL.png](https://github.com/Sadikctg/Project_3_Netflix_Movies_and_TV_Shows_EDA-/blob/main/netflix_page_cover.jpg)" height="80%" width="80%" />
+<br />
 	- Analyzed the data and generated insights to know which type of TV shows/movies producing and growing their business in different countries with various culture.
 	- Developed a movie/TV show recommendation function where users have the capability to search for a specific movie or TV show by its name. Upon entering the title, the system generates recommendations based on similar content. 
 	
