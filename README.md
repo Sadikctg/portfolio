@@ -14,7 +14,7 @@
 		- Analyzed the data and generated insights to know which type of TV shows/movies producing and growing their business in different countries with various culture.
 		- Developed a movie/TV show recommendation function where users have the capability to search for a specific movie or TV show by its name. Upon entering the title, the system generates recommendations based on similar content. 
 
-		![Netflix Cover](https://github.com/Sadikctg/Project_3_Netflix_Movies_and_TV_Shows_EDA-/blob/main/netflix_page_cover.jpg)
+		 ![Netflix Cover](https://github.com/Sadikctg/Project_3_Netflix_Movies_and_TV_Shows_EDA-/blob/main/netflix_page_cover.jpg)
 
 	
 	- [**Credit Card Fraud Detection**](https://github.com/Sadikctg/Project_2_Credit_Card_Fraud_Detection)
@@ -32,9 +32,10 @@
 		- Comparing utility consumption and costs across cities, identifying regional disparities and trends, informs targeted interventions and policy adjustments for promoting sustainability and efficiency while evaluating city performance in resource management and cost-effectiveness.
 
 	- [**Sales Analytical Dashboard**](https://github.com/Sadikctg/Project_6_Sales_Dashboard_with_PowerBI)
-
+		
 		- Developing a dynamic Excel dashboard that utilizes Pivot Tables, Pivot Charts, and other visualization techniques to present comprehensive insights into sales performance, market trends, and profitability metrics.
 		- Implementing data cleaning, transformation, and modeling techniques to ensure the accuracy and reliability of the analysis. Generate actionable insights from the dataset, including identifying top-performing products, regions, and sales teams, as well as analyzing trends in sales revenue, customer behavior, and advertising effectiveness.
+		  ![Dashboard](https://github.com/Sadikctg/Project_6_Sales_Dashboard_with_PowerBI/blob/main/images/Sales%20Dashboard%20-%2004_page-0001.jpg)
 
  - ### Microsoft Excel
 	- [**Bangladesh Premier League Analysis**](https://github.com/Sadikctg/Project_7_-Bangladesh_Premier_League_Analysis_Excel)
@@ -52,7 +53,6 @@
 	- [**Sales Time Series Analysis**](https://github.com/Sadikctg/Project_8_Sales_Time_Series_Analysis_Dashboard_Excel)
    
 	 	 ![Sales](https://github.com/Sadikctg/Project_8_Sales_Time_Series_Analysis_Dashboard_Excel/blob/main/images/Sales%20Analysis%20001-cropped.jpg)
-
 		- Developing a dashboard providing detailed insights into sales performance over various time periods, including monthly, quarterly, and yearly metrics, empowers stakeholders to analyze trends, identify seasonality, and make informed decisions.
 		- Incorporating customizable reporting features, the dashboard allows users to tailor their analysis, selecting relevant time periods, metrics, and visualization styles. This flexibility caters to diverse user needs, enhancing decision-making effectiveness.
 
