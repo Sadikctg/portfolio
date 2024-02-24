@@ -36,4 +36,18 @@
 		- Developing a dynamic Excel dashboard that utilizes Pivot Tables, Pivot Charts, and other visualization techniques to present comprehensive insights into sales performance, market trends, and profitability metrics.
 		- Implementing data cleaning, transformation, and modeling techniques to ensure the accuracy and reliability of the analysis. Generate actionable insights from the dataset, including identifying top-performing products, regions, and sales teams, as well as analyzing trends in sales revenue, customer behavior, and advertising effectiveness.
 
+ - ### Microsoft Excel
+	- [**Bangladesh Premier League Analysis**](https://github.com/Sadikctg/Project_7_-Bangladesh_Premier_League_Analysis_Excel)
 
+		- Analyzing BPL data from 2012 to 2020, encompassing match outcomes, venue statistics, player performance, and team data, aids stakeholders, analysts, and team management in making informed decisions based on historical insights.
+		- Ensuring the reliability and accuracy of the dashboard through efficient processing and transformation of raw data, reducing data-related errors by 25%, aims to instill stakeholders' confidence in the information presented, facilitating trusted data-driven decision-making processes.
+
+	- [**Training Institute Sales Dashboard**](https://github.com/Sadikctg/Project_9_Training_Institute_Sales_Dashboard_Excel)
+
+		- Analyzing total revenue, quantity sold, profit margins, COGS, and transaction volumes reveals trends and improvement areas. Evaluating top-performing cities and training levels guides resource allocation and marketing strategies, enhancing profitability and revenue.
+		- Assessing the effectiveness of advertising channels, such as YouTube, Google Ads, WhatsApp, Company Website, Facebook Page, and Television Ads, in generating leads and revenue while analyzing advertising distribution to optimize marketing spend and improve ROI.
+
+	- [**Sales Time Series Analysis**](https://github.com/Sadikctg/Project_8_Sales_Time_Series_Analysis_Dashboard_Excel)
+
+		- Developing a dashboard providing detailed insights into sales performance over various time periods, including monthly, quarterly, and yearly metrics, empowers stakeholders to analyze trends, identify seasonality, and make informed decisions.
+		- Incorporating customizable reporting features, the dashboard allows users to tailor their analysis, selecting relevant time periods, metrics, and visualization styles. This flexibility caters to diverse user needs, enhancing decision-making effectiveness.
