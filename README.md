@@ -17,11 +17,11 @@
 		![Netflix Cover](https://github.com/Sadikctg/Project_3_Netflix_Movies_and_TV_Shows_EDA-/blob/main/netflix_page_cover.jpg)
 
 	
-	- **Credit Card Fraud Detection**
+	- [**Credit Card Fraud Detection**](https://github.com/Sadikctg/Project_2_Credit_Card_Fraud_Detection)
 		- Utilizing data encompassing transaction time, amount, and transformed features, various classification models are employed to accurately classify transactions as authentic or fraudulent, followed by comparing different model building techniques and evaluating their performance through various metrics.
 		- In exploring transaction patterns, we investigate consecutive fraud occurrences to reveal potential follow-up scams, analyze transaction amounts for discrepancies between legitimate and fraudulent transactions, identify peak periods of fraud risk throughout the day and week, examine how fraud rates correlate with high transaction volumes, and scrutinize moments of unusually high fraud rates for underlying factors.
 
-	- **Zomato Restaurant**
+	- [**Zomato Restaurant**](https://github.com/Sadikctg/Project_1_Zomato_EDA)
 		- Performing EDA facilitates the identification of trends and patterns in customer preferences across various locations and factors, aiding in strategic decision-making for menu offerings, pricing strategies, and geographical expansion plans.
 		- Predicting customer satisfaction levels based on various restaurant features and attributes, leveraging machine learning techniques to optimize decision-making for menu offerings, pricing strategies, and geographic expansion plans.
 		
