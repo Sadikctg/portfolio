@@ -39,6 +39,11 @@
 		  ![Dashboard](https://github.com/Sadikctg/Project_6_Sales_Dashboard_with_PowerBI/blob/main/images/Sales%20Dashboard%20-%2004_page-0001.jpg)
 
  - ### Microsoft Excel
+<details>
+  <summary>Click to expand</summary>
+  <p>Additional information goes here...</p>
+</details>
+
 	- [**Bangladesh Premier League Analysis**](https://github.com/Sadikctg/Project_7_-Bangladesh_Premier_League_Analysis_Excel)
 
 		- Analyzing BPL data from 2012 to 2020, encompassing match outcomes, venue statistics, player performance, and team data, aids stakeholders, analysts, and team management in making informed decisions based on historical insights.
