@@ -5,11 +5,11 @@
 #### Technical Skills: Python, SQL, MS Power BI, MS Office, Scrum
 <details>
   <summary>Click to expand</summary>
-  <p>Additional information goes here...</p>
+
 
 ## Education
 - BSc in EEE, International Islamic University Chittagong.
-</details>
+	</details>
 ## Project
  - ### Python
 	- [**NETFLIX Movies and TV Shows**](https://github.com/Sadikctg/Project_3_Netflix_Movies_and_TV_Shows_EDA-)
