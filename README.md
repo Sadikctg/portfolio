@@ -3,10 +3,13 @@
 ## Data Scientist
 
 #### Technical Skills: Python, SQL, MS Power BI, MS Office, Scrum
+<details>
+  <summary>Click to expand</summary>
+  <p>Additional information goes here...</p>
 
 ## Education
 - BSc in EEE, International Islamic University Chittagong.
-
+</details>
 ## Project
  - ### Python
 	- [**NETFLIX Movies and TV Shows**](https://github.com/Sadikctg/Project_3_Netflix_Movies_and_TV_Shows_EDA-)
@@ -39,10 +42,7 @@
 		  ![Dashboard](https://github.com/Sadikctg/Project_6_Sales_Dashboard_with_PowerBI/blob/main/images/Sales%20Dashboard%20-%2004_page-0001.jpg)
 
  - ### Microsoft Excel
-<details>
-  <summary>Click to expand</summary>
-  <p>Additional information goes here...</p>
-</details>
+
 
 	- [**Bangladesh Premier League Analysis**](https://github.com/Sadikctg/Project_7_-Bangladesh_Premier_League_Analysis_Excel)
 
